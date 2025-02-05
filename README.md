@@ -4,7 +4,17 @@
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
 ## Skill Set :muscle:
+
+###
 
 **🖥 I code with**
 <table>
@@ -18,7 +28,10 @@
   </tr>
 </table>
 
+###
+
 **🛠 Dev Tools**
+###
 <table>
   <tr>
     <td> <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  /></td>
