@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/8npf1prX/Black-Elegant-Modern-Personal-Linked-In-Banner.png"  />
+  <img width="100%" src="https://i.ibb.co.com/8npf1prX/Black-Elegant-Modern-Personal-Linked-In-Banner.png"  />
 </div>
 
 <h1>Hi There, I'm Saleh Siam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
