@@ -62,7 +62,7 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
  
  </div>
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=salehsiam&theme=dark&hide_border=true" height="192px">
+   <img src="https://streak-stats.demolab.com?user=salehsiam&theme=dark&hide_border=true" height="192px">
 </div>
 
 ###
