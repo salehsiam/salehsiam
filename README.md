@@ -2,9 +2,11 @@
   <img height="250" src="https://i.ibb.co.com/8npf1prX/Black-Elegant-Modern-Personal-Linked-In-Banner.png"  />
 </div>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1>Hi There, I'm Saleh Siam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2 align="left">About me</h2>
+I’m Saleh Siam, a web developer passionate about creating smooth, efficient, and modern web applications. I focus on writing clean code and enjoy bringing ideas to life through technology. Always learning and building with the latest tools!
+
+<h2 align="left">👩‍💻 About me</h2>
 
 ###
 
