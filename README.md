@@ -12,8 +12,8 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
 
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Next js <br>🎯 Goals:  Build high-performance full-stack applications and master Next.js<br>🎲 Fun fact:  I debug my code better at 3 AM than during the day! 🚀</p>
 
-## Let's Connect :handshake:
-<a href="https://www.linkedin.com/in/saleh-siam-69950734b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/abusalehmdsiam.1/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40"></a>
+**Let's Connect :handshake:**
+<a href="https://www.linkedin.com/in/saleh-siam-69950734b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a>|<a href="https://www.facebook.com/abusalehmdsiam.1/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30"></a>
 |--|--|
 
 ###
