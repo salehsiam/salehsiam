@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-**🛠 Dev Tools **
+**🛠 Dev Tools**
 <table>
   <tr>
     <td> <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  /></td>
