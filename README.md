@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Next js js<br>🎯 Goals:  Build high-performance full-stack applications and master Next.js<br>🎲 Fun fact:  I debug my code better at 3 AM than during the day! 🚀</p>
 
 ###
 
