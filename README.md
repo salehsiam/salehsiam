@@ -3,6 +3,7 @@
 </div>
 
 <h1>Hi There, I'm Saleh Siam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+🚀 Web Developer | MERN Stack | React Enthusiast
 
 I’m Saleh Siam, a web developer who specializes in crafting seamless, high-performance applications. With a passion for React and the MERN stack, I focus on building user-friendly, scalable web solutions that deliver real value. I’m always exploring new technologies, learning, and striving to create clean, efficient code that brings ideas to life.
 
