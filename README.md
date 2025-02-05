@@ -8,22 +8,6 @@
 
 <h2 align="left">I code with</h2>
 
-<div align="left">
- 
-  <img width="12" />
- 
-  <img width="12" />
-
-  <img width="12" />
-
-  <img width="12" />
-
-  <img width="12" />
- 
-</div>
-
-###
-
 <table>
   <tr>
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></td>
