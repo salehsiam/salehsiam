@@ -4,7 +4,7 @@
 
 <h1>Hi There, I'm Saleh Siam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I’m Saleh Siam, a web developer passionate about creating smooth, efficient, and modern web applications. I focus on writing clean code and enjoy bringing ideas to life through technology. Always learning and building with the latest tools!
+I’m Saleh Siam, a web developer who specializes in crafting seamless, high-performance applications. With a passion for React and the MERN stack, I focus on building user-friendly, scalable web solutions that deliver real value. I’m always exploring new technologies, learning, and striving to create clean, efficient code that brings ideas to life.
 
 <h2 align="left">👩‍💻 About me</h2>
 
