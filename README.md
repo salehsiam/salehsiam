@@ -62,8 +62,8 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
  
  </div>
 <div align="center">
- <a href="https://github.com/salehsiam/github-readme-streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=SoniaBinty&theme=dark&hide_border=true" alt="Sonia's GitHub Streak" />
+ <a href="https://github.com/salehsiam">
+  <img align="center" src="https://streak-stats.demolab.com?user=salehsiam&theme=dark&hide_border=true" alt="Sonia's GitHub Streak" />
 </a>
 </div>
 
