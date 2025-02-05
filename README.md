@@ -12,7 +12,7 @@
 
 <h2 align="left">I code with</h2>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />|<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />|<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />|<img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />|--|--|--|--|--|
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="javascript logo"  />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40px" alt="react logo"  />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40px" alt="nodejs logo"  />|<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4"  width="40px" alt="tailwindcss logo"  />|<img src="https://skillicons.dev/icons?i=express"  width="40px" alt="express logo"  />|<img src="https://cdn.simpleicons.org/mongodb/47A248"  width="40px" alt="mongodb logo"  />|--|--|--|--|--|
 
 **Libraries and Frameworks**
 
