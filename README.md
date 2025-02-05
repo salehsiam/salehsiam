@@ -6,19 +6,34 @@
 
 ## Skill :
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+ 
+  <img width="12" />
+ 
+  <img width="12" />
+
+  <img width="12" />
+
+  <img width="12" />
+
+  <img width="12" />
+ 
+</div>
+
+###
+
 <table>
   <tr>
-    <td><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></td>
-    <td><img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></td>
-    <td><img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /></td>
-    <td><img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" /></td>
-    <td><img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" /></td>
-  </tr>
-  <tr>
-    <td><img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /></td>
-    <td><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwindcss/tailwindcss.png" /></td>
-    <td><img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" /></td>
-    <td><img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" /></td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></td>
+    <td>  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></td>
+    <td>  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /></td>
+        <td> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  /></td>
   </tr>
 </table>
 
