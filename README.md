@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07a0ea64-65e7-4940-a7f0-ae1a32049111)<div align="center">
+<div align="center">
   <img height="250" src="https://i.ibb.co.com/8npf1prX/Black-Elegant-Modern-Personal-Linked-In-Banner.png"  />
 </div>
 
