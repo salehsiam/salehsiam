@@ -17,12 +17,24 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Next js <br>🎯 Goals:  Build high-performance full-stack applications and master Next.js<br>🎲 Fun fact:  I debug my code better at 3 AM than during the day! 🚀</p>
 
 **Let's Connect :handshake:**
-<a href="https://www.linkedin.com/in/saleh-siam-69950734b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a>|<a href="https://www.facebook.com/abusalehmdsiam.1/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30"></a>|  <a href="https://discordapp.com/users/abusalehmdsiam" target="_blank">
+<table>
+  <tr>
+    <td>  <a href="https://www.linkedin.com/in/saleh-siam-69950734b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a> </td>
+    <td> <a href="https://www.facebook.com/abusalehmdsiam.1/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30"></a> </td>
+    <td>   <a href="https://discordapp.com/users/abusalehmdsiam" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a> |  <a href="https://wa.me/+8801912697508" target="_blank">
+  </a> </td>
+    <td><a href="https://wa.me/+8801912697508" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-|--|--|
+  </a></td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></td>
+    <td>  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></td>
+    <td>  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /></td>
+        <td> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  /></td>
+  </tr>
+</table>
+
 
 ###
 
