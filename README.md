@@ -17,7 +17,11 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Next js <br>🎯 Goals:  Build high-performance full-stack applications and master Next.js<br>🎲 Fun fact:  I debug my code better at 3 AM than during the day! 🚀</p>
 
 **Let's Connect :handshake:**
-<a href="https://www.linkedin.com/in/saleh-siam-69950734b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a>|<a href="https://www.facebook.com/abusalehmdsiam.1/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30"></a>
+<a href="https://www.linkedin.com/in/saleh-siam-69950734b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="30"></a>|<a href="https://www.facebook.com/abusalehmdsiam.1/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30"></a>|  <a href="https://discordapp.com/users/abusalehmdsiam" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a> |  <a href="https://wa.me/+8801912697508" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 |--|--|
 
 ###
@@ -30,6 +34,7 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
 <table>
   <tr>
     <td>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> </td>
+    <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> </td>
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></td>
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></td>
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></td>
