@@ -49,6 +49,7 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
     <td>  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></td>
     <td>  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /></td>
         <td> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" /></td>
   </tr>
 </table>
 
