@@ -27,11 +27,7 @@ I’m Saleh Siam, a web developer who specializes in crafting seamless, high-per
     <td><a href="https://wa.me/+8801912697508" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a></td>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></td>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></td>
-    <td>  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></td>
-    <td>  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /></td>
-        <td> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  /></td>
+   
   </tr>
 </table>
 
