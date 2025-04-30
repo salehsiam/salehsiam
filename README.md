@@ -1,6 +1,7 @@
-# 👋 **Hello World, I'm Saleh Siam** 🚀
 
 ![Profile Banner](https://i.ibb.co.com/8npf1prX/Black-Elegant-Modern-Personal-Linked-In-Banner.png)
+# 👋 **Hello World, I'm Saleh Siam** 🚀
+
 
 I’m a **Web Developer** with a passion for crafting high-performance applications. From debugging late into the night to building scalable full-stack solutions, I specialize in **React** and the **MERN stack**. 
 
