@@ -71,13 +71,12 @@ Here are some of my achievements, stats, and top languages:
 <div align="center">
  <img src="https://nirzak-streak-stats.vercel.app/?user=salehsiam&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
    <img src="https://github-readme-stats.vercel.app/api?username=salehsiam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salehsiam&layout=compact&theme=transparent&hide_border=true" />
 
    
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=salehsiam&theme=dark&hide_border=true&t=1" height="192px" />
-</div>
+
 
 ---
 
