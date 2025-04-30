@@ -77,6 +77,10 @@ Here are some of my achievements, stats, and top languages:
    
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/salehsiam/count.svg?"  />
+</div>
+
 
 
 ---
