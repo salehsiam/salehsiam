@@ -71,7 +71,7 @@ Here are some of my achievements, stats, and top languages:
 <div align="center">
  <img src="https://nirzak-streak-stats.vercel.app/?user=salehsiam&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
    ![](https://github-readme-stats.vercel.app/api?username=salehsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salehsiam&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Sonia's GitHub stats" /></a> 
+img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salehsiam&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Siam's GitHub stats" /> 
 
 </div>
 
