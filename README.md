@@ -66,7 +66,9 @@ I love networking and connecting with other developers. Feel free to reach out t
 ---
 
 ## 📊 **GitHub Stats** 📈
-   <img src="https://komarev.com/ghpvc/?username=salehsiam&label=Profile%20views&color=0e75b6&style=flat"/>
+<div class="inline-flex items-center gap-2 bg-white border border-blue-200 rounded-full px-3 py-1 shadow-md hover:shadow-lg transition">
+  <img src="https://komarev.com/ghpvc/?username=salehsiam&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views" class="h-5" />
+</div>
 
 
 Here are some of my achievements, stats, and top languages:
