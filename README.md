@@ -86,10 +86,7 @@ Here are some of my achievements, stats, and top languages:
    
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/salehsiam/count.svg?"  />
-   <img src="https://komarev.com/ghpvc/?username=salehsiam&label=Profile%20views&color=0e75b6&style=flat"/>
-</div>
+
 
 
 
