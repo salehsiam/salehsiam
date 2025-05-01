@@ -76,8 +76,9 @@ Here are some of my achievements, stats, and top languages:
   alt="streak graph" 
 />
 
-   <img src="https://github-readme-stats.vercel.app/api?username=salehsiam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salehsiam&layout=compact&theme=tokyonight&hide_border=true" width="520px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=salehsiam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" />
+ <br>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salehsiam&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
 
 
    
