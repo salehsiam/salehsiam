@@ -70,7 +70,12 @@ I love networking and connecting with other developers. Feel free to reach out t
 Here are some of my achievements, stats, and top languages:
 
 <div align="center">
- <img src="https://nirzak-streak-stats.vercel.app/?user=salehsiam&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
+<img 
+  src="https://nirzak-streak-stats.vercel.app/?user=salehsiam&theme=dracula&hide_border=true&ring=ff9c00&fire=ff6b81&currStreakLabel=ffffff&currStreakNum=00ffff&sideNums=ffffff&sideLabels=aaaaaa&dates=888888" 
+  width="520px" 
+  alt="streak graph" 
+/>
+
    <img src="https://github-readme-stats.vercel.app/api?username=salehsiam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salehsiam&layout=compact&theme=tokyonight&hide_border=true" width="520px" />
 
