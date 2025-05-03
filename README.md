@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="auto" weight="100%" src="https://i.ibb.co.com/v6DtQ928/Banner-1.png" />
+  <img height="auto" weight="100%" src="https://i.ibb.co.com/s9yWjh6b/githubbanner.png" />
 </div>
 
 
