@@ -22,32 +22,34 @@ I’ve been **creating bugs** since 2024, but don't worry—I fix them too! 😅
 
 ## 💪 **Skill Set** 🛠
 
-### 🖥 **Languages & Frameworks**:
+### 🖥️ **Frontend Technologies**
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></td>
-    <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /></td>
-    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></td>
-  </tr>
-</table>
+**Languages & Frameworks**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" /> HTML5  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" /> CSS3  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" /> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" /> React  
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="Tailwind CSS" /> Tailwind CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="Firebase" /> Firebase  
 
-### 🔧 **Tools & Technologies**:
+---
 
-<table>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></td>
-    <td><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></td>
-  </tr>
-</table>
+### 🔙 **Backend Technologies**
+
+**Languages & Frameworks**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="Node.js" /> Node.js  
+<img src="https://skillicons.dev/icons?i=express" height="25" alt="Express.js" /> Express.js  
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="25" alt="MongoDB" /> MongoDB  
+
+---
+
+### 🛠 **Tools & Technologies**
+
+<img src="https://cdn.simpleicons.org/git/F05032" height="25" alt="Git" /> Git  
+<img src="https://skillicons.dev/icons?i=figma" height="25" alt="Figma" /> Figma  
+<img src="https://skillicons.dev/icons?i=vscode" height="25" alt="VS Code" /> VS Code  
+<img src="https://skillicons.dev/icons?i=github" height="25" alt="GitHub" /> GitHub  
+
 
 ## 🚀 **Let’s Connect** 🤝
 
