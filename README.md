@@ -27,9 +27,7 @@ I love networking and connecting with other developers. Feel free to reach out t
   <div align="left">
       <a href="https://www.linkedin.com/in/saleh-siam-69950734b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
- 
-   
+      </a>
      <a href="https://web.facebook.com/abusalehmdsiam.1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
