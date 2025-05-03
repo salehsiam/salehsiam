@@ -6,7 +6,7 @@
 I’m a **Web Developer** with a passion for crafting high-performance applications. From debugging late into the night to building scalable full-stack solutions, I specialize in **React** and the **MERN stack**. 
 
 Let’s create something awesome together! 💻✨
-
+ <img src="https://komarev.com/ghpvc/?username=salehsiam&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views" class="h-5" />
 ---
 
 ## 🌟 **About Me** ✨
@@ -68,9 +68,9 @@ I love networking and connecting with other developers. Feel free to reach out t
 ## 📊 **GitHub Stats** 📈
 
 Here are some of my achievements, stats, and top languages:
-<div class="inline-flex items-center gap-2 bg-white border border-blue-200 rounded-full px-3 py-1 shadow-md hover:shadow-lg transition">
-  <img src="https://komarev.com/ghpvc/?username=salehsiam&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views" class="h-5" />
-</div>
+
+ 
+
 
 <div align="center">
 <img 
