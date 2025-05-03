@@ -50,9 +50,9 @@ I’ve been **creating bugs** since 2024, but don't worry—I fix them too! 😅
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </div>
 
+---
 
-
-## 🚀 **Let’s Connect** 🤝
+### 🚀 **Let’s Connect** 🤝
 
 I love networking and connecting with other developers. Feel free to reach out through any of the platforms below:
   <div align="left">
@@ -72,8 +72,6 @@ I love networking and connecting with other developers. Feel free to reach out t
 
 Here are some of my achievements, stats, and top languages:
 
- 
-
 
 <div align="center">
 <img 
@@ -89,10 +87,6 @@ Here are some of my achievements, stats, and top languages:
 
    
 </div>
-
-
-
-
 
 ---
 
