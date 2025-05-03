@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="auto" weight="100%" src="https://i.ibb.co.com/VZ1SNHj/Red-Black-Geometric-Gamer-Youtube-Banner.png" />
+  <img height="auto" weight="100%" src="https://i.ibb.co.com/v6DtQ928/Banner-1.png" />
 </div>
 
 
