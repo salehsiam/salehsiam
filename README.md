@@ -1,5 +1,7 @@
 
-![Profile Banner](https://i.ibb.co/VZ1SNHj/Red-Black-Geometric-Gamer-Youtube-Banner.png)
+<div align="center">
+  <img height="auto" weight="100%" src="https://i.ibb.co.com/VZ1SNHj/Red-Black-Geometric-Gamer-Youtube-Banner.png" />
+</div>
 # 👋 **Hello World, I'm Saleh Siam** 🚀
 
 
