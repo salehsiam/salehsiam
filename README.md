@@ -21,7 +21,7 @@ I’ve been **creating bugs** since 2024, but don't worry—I fix them too! 😅
 - 📚 **Currently Learning:** Next.js – It's all about server-side rendering and static sites!
 - 🎯 **My Goal:** To build high-performance, full-stack applications with clean, maintainable code.
 - 🕒 **Fun Fact:** I debug better at 3 AM than I do during the day. The night is my coding playground! 🌙
-- 💡 **What Drives Me:** The joy of solving complex problems and turning ideas into usable web experiences.
+
 
 ---
 
